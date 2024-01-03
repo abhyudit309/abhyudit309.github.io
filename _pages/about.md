@@ -26,9 +26,7 @@ GPA: 4.13 / 4
 
 Depth: Robotics, Automatic Controls, Dynamics
 
-Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty
-
-\
+Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty __
 
 <img align="left" width="290" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png" />
 
