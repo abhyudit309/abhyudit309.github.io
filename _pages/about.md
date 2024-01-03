@@ -16,12 +16,12 @@ In my free time, I enjoy swimming, playing table tennis or badminton, watching s
 
 Education
 ------
-<img align="left" width="200" src="https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png" />
+<img align="left" width="300" src="https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png" />
 
-## Stanford University, CA, U.S.A
+### Stanford University, CA, U.S.A
 
-M.S Mechanical Engineering (2022 - 2024)  GPA: 4.13 / 4
+Master of Science in Mechanical Engineering (2022 - 2024)   GPA: 4.13 / 4
 
-Coursework: Robotics, Automatic Controls, Dynamics
+Depth: Robotics, Automatic Controls, Dynamics
 
 Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty
