@@ -16,7 +16,7 @@ In my free time, I enjoy swimming, playing table tennis or badminton, watching s
 
 Education
 ------
-<img align="left" width="300" src="https://github.com/abhyudit309/abhyudit309.github.io/tree/master/images/stanford_logo.png" />
+<img align="left" width="300" src="https://i.imgur.com/iHeYrNX.png" />
 
 ### Stanford University, CA, U.S.A
 
@@ -28,7 +28,7 @@ Depth: Robotics, Automatic Controls, Dynamics
 
 Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty <br>
 
-<img align="left" width="290" src="https://github.com/abhyudit309/abhyudit309.github.io/tree/master/images/iitmadras_logo.png" />
+<img align="left" width="290" src="https://i.imgur.com/W9EC8n6.png" />
 
 ### Indian Institute of Technology, Madras, India
 
