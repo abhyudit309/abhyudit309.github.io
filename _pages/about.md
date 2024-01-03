@@ -28,6 +28,7 @@ Depth: Robotics, Automatic Controls, Dynamics
 
 Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty
 
+
 <img align="left" width="300" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png" />
 
 ### Indian Institute of Technology, Madras, India
