@@ -8,6 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's in Mechanical Engineering at Stanford University, with a depth in Robotics and Automatic Controls. I completed my Bachelor's in Mechanical Engineering (with Honours) at the Indian Institute of Technology (IIT) Madras.
+Hi! I'm Abhyudit. I am currently pursuing a Master's in Mechanical Engineering at Stanford University. I completed my Bachelor's in Mechanical Engineering, with a minor in Mathematics, from the Indian Institute of Technology (IIT) Madras, India in 2022.
 
-My professional interests include robotics, dynamics and controls. I'm a driven and ambitious individual, with an exceptional academic record and varied experience in many fields. Hard-working and sincere, I fully commit to the task at hand.
+My coursework specializes in robotics, controls and dynamics. I'm a driven and ambitious individual, with an exceptional academic record and varied experience in many fields. Hard-working and sincere, I fully commit to the task at hand.
+
+In my free time, I enjoy swimming, playing table tennis or badminton, watching soccer or cricket, and reading novels.
+
+---
+permalink: /
+title: "Education"
+excerpt: "Education"
+author_profile: true
+redirect_from: 
+  - /education/
+  - /education.html
+---
+
+Hi! I'm Abhyudit. I am currently pursuing a Master's in Mechanical Engineering at Stanford University. I completed my Bachelor's in Mechanical Engineering, with a minor in Mathematics, from the Indian Institute of Technology (IIT) Madras, India in 2022.
+
+My coursework specializes in robotics, controls and dynamics. I'm a driven and ambitious individual, with an exceptional academic record and varied experience in many fields. Hard-working and sincere, I fully commit to the task at hand.
+
+In my free time, I enjoy swimming, playing table tennis or badminton, watching soccer or cricket, and reading novels.
