@@ -17,7 +17,7 @@ In my free time, I enjoy swimming, playing table tennis or badminton, watching s
 Education
 ------
 <p align="left">
-  <img src="images/profile.png" width="400" alt="Your Image Description">
+  <img src="https://github.com/abhyudit309/abhyudit309.github.io/blob/master/images/profile.png" width="400" alt="Your Image Description">
 </p>
 
 Hi! I'm Abhyudit. I am currently pursuing a Master's in Mechanical Engineering at Stanford University. I completed my Bachelor's in Mechanical Engineering, with a minor in Mathematics, from the Indian Institute of Technology (IIT) Madras, India in 2022.
