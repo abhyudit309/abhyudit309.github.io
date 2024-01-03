@@ -20,7 +20,7 @@ Education
 
 ### Stanford University, CA, U.S.A
 
-Master of Science in Mechanical Engineering (2022 - 2024)
+M.S. in Mechanical Engineering (2022 - 2024)
 
 GPA: 4.13 / 4
 
@@ -32,10 +32,10 @@ Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear A
 
 ### Indian Institute of Technology, Madras, India
 
-Bachelor of Technology in Mechanical Engineering (2018 - 2022)
+B.Tech in Mechanical Engineering (2018 - 2022)
 
 GPA: 9.63 / 10
 
 Minor degree in Mathematics, Department Rank: 2
 
-Courses taken: Kinematics & Dynamics of Machinery, Measurements Instrumentation & Control, Optimization Methods for Design, Introduction to Robotics, Multi Body Dynamics, Numerical Methods & Scientific Computing
+Courses taken: Kinematics and Dynamics of Machinery, Measurements Instrumentation and Control, Optimization Methods for Design, Introduction to Robotics, Multi Body Dynamics, Numerical Methods and Scientific Computing
