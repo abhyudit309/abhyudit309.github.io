@@ -16,7 +16,7 @@ In my free time, I enjoy swimming, playing table tennis or badminton, watching s
 
 Education
 ------
-<img align="left" width="195" src="https://i.imgur.com/iHeYrNX.png" />
+<img align="left" width="200" src="https://i.imgur.com/iHeYrNX.png" />
 
 ### Stanford University, CA, U.S.A
 
@@ -34,7 +34,7 @@ Education
 
 * <span style="font-family: 'Arial';"> Graduate Teaching Assistant - AA 274A Principles of Robot Autonomy I (Sept - Dec 2023) </span>
 
-<img align="left" width="200" src="https://i.imgur.com/W9EC8n6.png" />
+<img align="left" width="195" src="https://i.imgur.com/W9EC8n6.png" />
 
 ### Indian Institute of Technology, Madras, India
 
