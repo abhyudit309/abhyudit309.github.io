@@ -28,26 +28,26 @@ Education
 
 <span style="font-family: 'Arial';"> Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty </span>
 
-<span style="font-family: 'Arial';"> Responsibilities:
+<span style="font-family: 'Arial';"> Responsibilities: </span>
 
-* Graduate Teaching Assistant - CS 237B Principles of Robot Autonomy II (Jan 2024 - Present)
+* <span style="font-family: 'Arial';"> Graduate Teaching Assistant - CS 237B Principles of Robot Autonomy II (Jan 2024 - Present) </span>
 
-* Graduate Teaching Assistant - AA 274A Principles of Robot Autonomy I (Sept - Dec 2023) </span>
+* <span style="font-family: 'Arial';"> Graduate Teaching Assistant - AA 274A Principles of Robot Autonomy I (Sept - Dec 2023) </span>
 
-<img align="left" width="250" src="https://i.imgur.com/W9EC8n6.png" />
+<img align="left" width="200" src="https://i.imgur.com/W9EC8n6.png" />
 
 ### Indian Institute of Technology, Madras, India
 
-B.Tech in Mechanical Engineering (2018 - 2022)
+<span style="font-family: 'Arial';"> B.Tech in Mechanical Engineering (2018 - 2022) </span>
 
-GPA: 9.63 / 10
+<span style="font-family: 'Arial';"> GPA: 9.63 / 10 </span>
 
-Minor degree in Mathematics, Department Rank: 2
+<span style="font-family: 'Arial';"> Minor degree in Mathematics, Department Rank: 2 </span>
 
-Courses taken: Kinematics and Dynamics of Machinery, Measurements Instrumentation and Control, Optimization Methods for Design, Introduction to Robotics, Multi Body Dynamics, Numerical Methods and Scientific Computing
+<span style="font-family: 'Arial';"> Courses taken: Kinematics and Dynamics of Machinery, Measurements Instrumentation and Control, Optimization Methods for Design, Introduction to Robotics, Multi Body Dynamics, Numerical Methods and Scientific Computing </span>
 
-Responsibilities:
+<span style="font-family: 'Arial';"> Responsibilities: </span>
 
-* Undergraduate Teaching Assistant - MA 2020 Differential Equations (Aug - Dec 2021)
-
-* Undergraduate Teaching Assistant - MA 1101 Functions of Several Variables (Aug - Dec 2020)
+* <span style="font-family: 'Arial';"> Undergraduate Teaching Assistant - MA 2020 Differential Equations (Aug - Dec 2021) </span>
+ 
+* <span style="font-family: 'Arial';"> Undergraduate Teaching Assistant - MA 1101 Functions of Several Variables (Aug - Dec 2020) </span>
