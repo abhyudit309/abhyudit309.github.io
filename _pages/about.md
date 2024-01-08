@@ -22,19 +22,17 @@ Education
 
 <span style="font-family: 'Arial';"> M.S. in Mechanical Engineering (2022 - 2024) </span>
 
-M.S. in Mechanical Engineering (2022 - 2024)
+<span style="font-family: 'Arial';"> GPA: 4.14 / 4 </span>
 
-GPA: 4.14 / 4
+<span style="font-family: 'Arial';"> Depth: Robotics, Automatic Controls, Dynamics </span>
 
-Depth: Robotics, Automatic Controls, Dynamics
+<span style="font-family: 'Arial';"> Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty </span>
 
-Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty <br>
+<span style="font-family: 'Arial';"> Responsibilities: </span>
 
-Responsibilities:
+<span style="font-family: 'Arial';"> * Graduate Teaching Assistant - CS 237B Principles of Robot Autonomy II (Jan 2024 - Present) </span>
 
-* Graduate Teaching Assistant - CS 237B Principles of Robot Autonomy II (Jan 2024 - Present)
-
-* Graduate Teaching Assistant - AA 274A Principles of Robot Autonomy I (Sept - Dec 2023)
+<span style="font-family: 'Arial';"> * Graduate Teaching Assistant - AA 274A Principles of Robot Autonomy I (Sept - Dec 2023) </span>
 
 <img align="left" width="250" src="https://i.imgur.com/W9EC8n6.png" />
 
