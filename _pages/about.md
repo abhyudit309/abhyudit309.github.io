@@ -22,7 +22,7 @@ Education
 
 M.S. in Mechanical Engineering (2022 - 2024)
 
-GPA: 4.13 / 4
+GPA: 4.14 / 4
 
 Depth: Robotics, Automatic Controls, Dynamics
 
