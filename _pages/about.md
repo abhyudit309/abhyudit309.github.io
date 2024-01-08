@@ -16,7 +16,7 @@ In my free time, I enjoy swimming, playing table tennis or badminton, watching s
 
 Education
 ------
-<img align="left" width="200" src="https://i.imgur.com/iHeYrNX.png" />
+<img align="left" width="195" src="https://i.imgur.com/iHeYrNX.png" />
 
 ### Stanford University, CA, U.S.A
 
