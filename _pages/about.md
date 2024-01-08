@@ -20,7 +20,7 @@ Education
 
 ### Stanford University, CA, U.S.A
 
-<span style="font-family: 'Courier New';"> M.S. in Mechanical Engineering (2022 - 2024) </span>
+<span style="font-family: 'Lucida Console';"> M.S. in Mechanical Engineering (2022 - 2024) </span>
 
 M.S. in Mechanical Engineering (2022 - 2024)
 
