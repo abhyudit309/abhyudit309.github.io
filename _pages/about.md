@@ -20,6 +20,8 @@ Education
 
 ### Stanford University, CA, U.S.A
 
+<span style="font-family: 'Courier New';"
+
 M.S. in Mechanical Engineering (2022 - 2024)
 
 GPA: 4.14 / 4
@@ -32,7 +34,7 @@ Responsibilities:
 
 * Graduate Teaching Assistant - CS 237B Principles of Robot Autonomy II (Jan 2024 - Present)
 
-* Graduate Teaching Assistant - AA 274A Principles of Robot Autonomy I (Sept - Dec 2023)
+* Graduate Teaching Assistant - AA 274A Principles of Robot Autonomy I (Sept - Dec 2023) </span>
 
 <img align="left" width="250" src="https://i.imgur.com/W9EC8n6.png" />
 
