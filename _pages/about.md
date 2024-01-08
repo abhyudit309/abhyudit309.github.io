@@ -16,7 +16,7 @@ In my free time, I enjoy swimming, playing table tennis or badminton, watching s
 
 Education
 ------
-<img align="left" width="250" src="https://i.imgur.com/iHeYrNX.png" />
+<img align="left" width="200" src="https://i.imgur.com/iHeYrNX.png" />
 
 ### Stanford University, CA, U.S.A
 
@@ -28,11 +28,11 @@ Education
 
 <span style="font-family: 'Arial';"> Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty </span>
 
-<span style="font-family: 'Arial';"> Responsibilities: </span>
+<span style="font-family: 'Arial';"> Responsibilities:
 
-<span style="font-family: 'Arial';"> * Graduate Teaching Assistant - CS 237B Principles of Robot Autonomy II (Jan 2024 - Present) </span>
+* Graduate Teaching Assistant - CS 237B Principles of Robot Autonomy II (Jan 2024 - Present)
 
-<span style="font-family: 'Arial';"> * Graduate Teaching Assistant - AA 274A Principles of Robot Autonomy I (Sept - Dec 2023) </span>
+* Graduate Teaching Assistant - AA 274A Principles of Robot Autonomy I (Sept - Dec 2023) </span>
 
 <img align="left" width="250" src="https://i.imgur.com/W9EC8n6.png" />
 
