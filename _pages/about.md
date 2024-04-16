@@ -26,11 +26,13 @@ Education
 
 <span style="font-family: 'Arial';"> Depth: Robotics, Automatic Controls, Dynamics </span>
 
-<span style="font-family: 'Arial';"> Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty </span>
+<span style="font-family: 'Arial';"> Courses taken: Principles of Robot Autonomy, Control Design Techniques, Linear Algebra, Collaborative Robotics, Advanced Dynamics, Experimental Robotics, Decision Making under Uncertainty, Parallel computing using MPI openMP and CUDA, Engineering Design Optimization </span>
 
 <span style="font-family: 'Arial';"> Responsibilities: </span>
 
-* <span style="font-family: 'Arial';"> Graduate Teaching Assistant - CS 237B Principles of Robot Autonomy II (Jan 2024 - Present) </span>
+* <span style="font-family: 'Arial';"> Graduate Teaching Assistant - AA 273 State Estimation and Filtering for Robotic Perception (April 2024 - Present) </span>
+
+* <span style="font-family: 'Arial';"> Graduate Teaching Assistant - CS 237B Principles of Robot Autonomy II (Jan 2024 - Mar 2024) </span>
 
 * <span style="font-family: 'Arial';"> Graduate Teaching Assistant - AA 274A Principles of Robot Autonomy I (Sept - Dec 2023) </span>
 
